@@ -85,7 +85,7 @@ function Topic({ isLeft, id, title }: { isLeft: boolean; id: number; title: stri
     );
 }
 
-export default function Tree(props: any) {
+export default function Tree(props: { category: string }) {
 
     return (
         <>  
