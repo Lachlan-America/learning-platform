@@ -4,7 +4,7 @@ import Tree from "@/components/Tree";
 export default function ReactPage() {
     return(
         <>
-            <Tree category="React"></Tree>
+            <Tree category="react"></Tree>
         </>
     );
 }

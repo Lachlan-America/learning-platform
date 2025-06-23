@@ -4,7 +4,7 @@ import Tree from "@/components/Tree";
 export default function JavascriptPage() {
     return(
         <>
-            <Tree category="Javascript"></Tree>
+            <Tree category="javascript"></Tree>
         </>
     );
 }
