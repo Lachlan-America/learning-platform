@@ -1,0 +1,39 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "CLI Tools",
+      "content": "Learn the fundamentals of Vite."
+    },
+    {
+      "id": 2,
+      "title": "Functional Components",
+      "content": "The design of components that make up the building blocks of React applications. They allow independent and reuseable UI features."
+    },
+    {
+      "id": 3,
+      "title": "Component Basics",
+      "content": "Encompasses Javascript XML (JSX), when to use properties vs state, the requirements of conditional rendering, and component composition to abstract complexity and reinforce the DRY principle."
+    },
+    {
+      "id": 4,
+      "title": "Rendering",
+      "content": "The virtual DOM (VDOM) is an important aspect of how React works. It is a lightweight in-memory representation of the DOM (Document Object Model), and it is used to optimize the rendering of components in a React application. React uses a diffing algorithm to efficiently update the underlying DOM."
+    },
+    {
+      "id": 5,
+      "title": "Basic Hooks",
+      "content": "Allow the user to use React's features, like managing your component's state and or performing an after effect when certain changes occur in state(s) without writing a class."
+    },
+    {
+      "id": 6,
+      "title": "Custom Hooks",
+      "content": "Reusable logic extracted into a custom hook."
+    },
+    {
+      "id": 7,
+      "title": "Error Boundaries",
+      "content": "Render UI errors."
+    }
+  ]
+}
