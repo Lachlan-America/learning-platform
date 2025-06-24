@@ -3,7 +3,6 @@
 
 import RoadmapIcon from "./RoadmapIcon";
 import RoadmapData from "@/data/reactRoadmap.json";
-import Node from "@/components/Node";
 import TreeItem from "@/components/TreeItem";
 import { useState } from "react";
 
